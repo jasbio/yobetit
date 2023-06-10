@@ -18,7 +18,7 @@
     "core-js": "^3.6.5",
     "dom-css": "^2.1.0",
     "fit-text": "^2.0.1",
-    "gatsby": "^2.21.9",
+    "gatsby": "^4.25.7",
     "gatsby-concurrent-mode": "^1.0.0",
     "gatsby-plugin-linaria": "^2.0.0",
     "gatsby-plugin-react-helmet": "^3.3.0",
